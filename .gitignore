@@ -232,6 +232,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # etc
-.docs_resource/
+docs_resource/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,windows,macos,react
