@@ -26,7 +26,7 @@
 
 - 모던 CSS 이용
 
-  - `styled component` 라이브러리 사용
+  - `styled component` 라이브러리 사
 
 - `Next.js`를 이용한 SSR로 SEO 대처
 
@@ -70,4 +70,4 @@
 
 ## data flow
 
-![data flow](README.assets/data flow.png)
+![data_flow](README.assets/data_flow.png)
